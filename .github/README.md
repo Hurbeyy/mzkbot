@@ -143,3 +143,7 @@ Special thanks to these amazing projects/people which/who help power Yukki Music
 
 
 Reminder that you are great, you are enough, and your presence is valued. If you are struggling with your mental health, please reach out to someone you love and consult a professional.
+  
+  <h4>🔺 Okteto ile Kurulum 🔻</h4> 
+
+<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/ivanche7/mzkbot"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200" height="35.45"/></a></p>
